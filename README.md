@@ -1,6 +1,6 @@
 # Delphi Big Numbers - Data Generators
 
-The Data Generators from [Rudy Belthuis' Delphi Big Numbers](https://github.com/TurboPack/DelphiBigNumbers) library.
+The Data Generators from [Rudy Velthuis' Delphi Big Numbers](https://github.com/TurboPack/DelphiBigNumbers) library.
 
 ## Directory structure
 
